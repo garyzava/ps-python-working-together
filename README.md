@@ -1,2 +1,1 @@
-# ps-python-working-together
-PowerShell and Python Working Together
+# PowerShell and Python Working Together
